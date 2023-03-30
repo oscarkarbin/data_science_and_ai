@@ -16,7 +16,9 @@ In this assignment, we used the Naïve Bayes algorithm to analyze data using the
 ## Assignment 5
 This assignment covers reinforcement learning, a type of decision-making under uncertainty. It introduces Markov Decision Processes (MDPs) for decision making under no uncertainty, followed by Q-learning for unknown MDPs. The exploration-exploitation trade-off is discussed, along with an example. The assignment concludes with questions on the differences between reinforcement learning and supervised learning and on decision trees and random forests.
 ## Assignment 6
-Soon...
+Assignment 6 was a quiz that focused on the ethics of AI. It covered issues related to bias, fairness, privacy, security, accountability, transparency, and the potential impact of AI on society. The quiz aimed to raise awareness about these ethical considerations and encourage critical thinking about the role of AI in society. No files available here.
 ## Assignment 7
-Soon...
+The assignment is about working with the MNIST dataset, which contains grayscale images of handwritten digits with assigned class labels. The objective is to build a model using the Keras framework that can accurately classify new images. The assignment also mentions the option of using free GPU leases on Google Colab or Deepnote to speed up training. Additionally, information about different layers and regularizers can be found on the Keras website.
 ## Assignment 8
+This assignment is about rule-based AI and problem-solving. It includes questions related to graph traversal algorithms, search spaces, heuristics, and pathfinding algorithms. The assignment also requires drawing diagrams and providing justifications for solutions.
+
