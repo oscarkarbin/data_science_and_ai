@@ -12,9 +12,9 @@ This assignment involved analyzing two datasets. The first dataset contains info
 ## Assignment 3
 This assignment focuses on analyzing the main conformation of proteins using phi and psi angle combinations. The data file contains a list of phi and psi combinations, and K-means clustering and DBSCAN methods are used to cluster the data. The distribution of phi and psi combinations is visualized using a scatter plot and 2D histogram. The appropriate value of K is suggested and motivated. The clusters found by DBSCAN and K-means are compared, and outliers are identified. The amino acid residue types are analyzed, and the clusters for the amino acid residue type PRO are investigated.
 ## Assignment 4
-Soon...
+In this assignment, we used the Naïve Bayes algorithm to analyze data using the scikit-learn library. Naïve Bayes is a probabilistic machine learning algorithm that is commonly used for classification problems. Scikit-learn is a popular Python library for machine learning that provides various tools and algorithms for data analysis. By combining Naïve Bayes with scikit-learn, I learned to classify data efficiently and accurately.
 ## Assignment 5
-Soon...
+This assignment covers reinforcement learning, a type of decision-making under uncertainty. It introduces Markov Decision Processes (MDPs) for decision making under no uncertainty, followed by Q-learning for unknown MDPs. The exploration-exploitation trade-off is discussed, along with an example. The assignment concludes with questions on the differences between reinforcement learning and supervised learning and on decision trees and random forests.
 ## Assignment 6
 Soon...
 ## Assignment 7
